@@ -1,1 +1,3 @@
-# Project0_2018
+# Project 0
+
+Web Programming with Python and JavaScript
